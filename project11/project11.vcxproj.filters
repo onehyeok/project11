@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="클래스 소스 파일">
+      <UniqueIdentifier>{dfc46a70-d89d-4c42-a182-b0780b21fb89}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="source1.cpp">
@@ -50,6 +53,12 @@
     </ClCompile>
     <ClCompile Include="source11.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Classmain01.cpp">
+      <Filter>클래스 소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Classmain02.cpp">
+      <Filter>클래스 소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

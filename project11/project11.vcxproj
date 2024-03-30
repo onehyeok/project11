@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Classmain01.cpp" />
+    <ClCompile Include="Classmain02.cpp" />
     <ClCompile Include="practice01.cpp" />
     <ClCompile Include="source1.cpp" />
     <ClCompile Include="source10.cpp" />

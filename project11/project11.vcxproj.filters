@@ -60,5 +60,40 @@
     <ClCompile Include="Classmain02.cpp">
       <Filter>클래스 소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Solution.cpp">
+      <Filter>클래스 소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution2.cpp">
+      <Filter>클래스 소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Classmain03.cpp">
+      <Filter>클래스 소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="classexample01.cpp">
+      <Filter>클래스 소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Classmain04.cpp">
+      <Filter>클래스 소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Classmain05.cpp">
+      <Filter>클래스 소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Classmain06.cpp">
+      <Filter>클래스 소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterStatus.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Monster.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterStatus.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

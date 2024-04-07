@@ -87,6 +87,18 @@
     <ClCompile Include="MonsterStatus.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Slime.cpp">
+      <Filter>클래스 소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassMain07.cpp">
+      <Filter>클래스 소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Classmain08.cpp">
+      <Filter>클래스 소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Classmain09.cpp">
+      <Filter>클래스 소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Monster.h">
@@ -95,5 +107,12 @@
     <ClInclude Include="MonsterStatus.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="Slime.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
 </Project>

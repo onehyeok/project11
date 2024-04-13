@@ -137,8 +137,12 @@
     <ClCompile Include="ClassMain07.cpp" />
     <ClCompile Include="Classmain08.cpp" />
     <ClCompile Include="Classmain09.cpp" />
+    <ClCompile Include="Classmain10.cpp" />
+    <ClCompile Include="ClassMain11.cpp" />
     <ClCompile Include="Monster.cpp" />
     <ClCompile Include="MonsterStatus.cpp" />
+    <ClCompile Include="OperationOverloadingMain01.cpp" />
+    <ClCompile Include="OperationOverloadingMain02.cpp" />
     <ClCompile Include="practice01.cpp" />
     <ClCompile Include="Slime.cpp" />
     <ClCompile Include="Solution.cpp" />

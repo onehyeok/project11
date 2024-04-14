@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Cla.cpp" />
     <ClCompile Include="classexample01.cpp" />
     <ClCompile Include="Classmain01.cpp" />
     <ClCompile Include="Classmain02.cpp" />
@@ -139,6 +140,8 @@
     <ClCompile Include="Classmain09.cpp" />
     <ClCompile Include="Classmain10.cpp" />
     <ClCompile Include="ClassMain11.cpp" />
+    <ClCompile Include="ClassMain12.cpp" />
+    <ClCompile Include="ExceptionMain.cpp" />
     <ClCompile Include="Monster.cpp" />
     <ClCompile Include="MonsterStatus.cpp" />
     <ClCompile Include="OperationOverloadingMain01.cpp" />
@@ -158,8 +161,10 @@
     <ClCompile Include="source7.cpp" />
     <ClCompile Include="source8.cpp" />
     <ClCompile Include="source9.cpp" />
+    <ClCompile Include="STL_Main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Cla.h" />
     <ClInclude Include="Monster.h" />
     <ClInclude Include="MonsterStatus.h" />
     <ClInclude Include="Slime.h" />
